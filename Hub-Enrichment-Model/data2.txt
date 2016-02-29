@@ -1,0 +1,1 @@
+Results for Asthma & AllergyThreshold Confidence: 0.99Maximum graph depth: 3Number of Proteins: 9Number of PPI: 11Number of interactions discovered: 0
